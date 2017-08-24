@@ -1,0 +1,13 @@
+Package: Lheatmap
+Type: Package
+Title: Lheatmap
+Version: 1.0.0
+Date: 24-08-2017
+Authors@R: person("Hao","Sun",email="sunfenghao2013@163.com",role=c("aut","cre"))
+Maintainer: Sun Hao <sunfenghao2013@163.com>
+Description: this is a package built for plot multi-heatmap
+Depends: R (>= 3.0.0)
+License: everyone
+LazyData: true
+RoxygenNote: 6.0.1
+
